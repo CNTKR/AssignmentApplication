@@ -16,9 +16,9 @@
   <li>Open a terminal (command prompt) and navigate to the project directory.</li>
   <li>Compile the Java source code using the following command:</li>
 </ul>
-//javac -cp ".:json.jar" com/example/demo/AssignmentApplication.java
+javac -cp ".:json.jar" com/example/demo/AssignmentApplication.java
 <h3>1.Run the compiled program using the following command:</h3>
-'''java -cp ".:json.jar" com.example.demo.AssignmentApplication'''
+java -cp ".:json.jar" com.example.demo.AssignmentApplication
 <h3>Usage
 Upon running the application, you will see the following menu:</h3>
 1. Get weather<br>
@@ -39,7 +39,7 @@ Here's an example of how to use the application:
 2. Get wind speed
 3. Get pressure
 0. Exit<br>
-<!--Enter option: 1
+<Enter option: 1
 Enter date (YYYY-MM-DD): 2023-08-02
 Weather: Clouds
 Temperature: 278.76 degrees
@@ -51,7 +51,7 @@ Enter option: 3
 Enter date (YYYY-MM-DD): 2023-08-02
 Pressure: 1031.934 hPa
 Enter option: 0
-<h2>Notes</h2>-->
+<h2>Notes</h2>
 The weather data fetched from the provided API URL (https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22) is a sample data and might not always be up to date or accurate.
 For real-time weather data, consider using a valid API URL with a proper API key provided by the weather service provider.
 
