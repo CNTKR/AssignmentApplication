@@ -40,15 +40,15 @@ Here's an example of how to use the application:<br>
 3. Get pressure<br>
 0. Exit<br>
 Enter option: 1<br>
-Enter date (YYYY-MM-DD): 2023-08-02<br>
+Enter date (YYYY-MM-DD): 2019-03-27<br>
 Weather: Clouds<br>
 Temperature: 278.76 degrees<br>
 Humidity: 100%<br>
 Enter option: 2<br>
-Enter date (YYYY-MM-DD): 2023-08-02<br>
+Enter date (YYYY-MM-DD): 2019-03-27<br>
 Wind speed: 1.6 mph<br>
 Enter option: 3<br>
-Enter date (YYYY-MM-DD): 2023-08-02<br>
+Enter date (YYYY-MM-DD): 2019-03-27<br>
 Pressure: 1031.934 hPa<br>
 Enter option: 0<br>
 <h2>Notes</h2><br>
