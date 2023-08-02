@@ -39,19 +39,19 @@ Here's an example of how to use the application:
 2. Get wind speed
 3. Get pressure
 0. Exit<br>
-<Enter option: 1
-Enter date (YYYY-MM-DD): 2023-08-02
-Weather: Clouds
-Temperature: 278.76 degrees
-Humidity: 100%
-Enter option: 2
-Enter date (YYYY-MM-DD): 2023-08-02
-Wind speed: 1.6 mph
-Enter option: 3
-Enter date (YYYY-MM-DD): 2023-08-02
-Pressure: 1031.934 hPa
-Enter option: 0
-<h2>Notes</h2>
+Enter option: 1<br>
+Enter date (YYYY-MM-DD): 2023-08-02<br>
+Weather: Clouds<br>
+Temperature: 278.76 degrees<br>
+Humidity: 100%<br>
+Enter option: 2<br>
+Enter date (YYYY-MM-DD): 2023-08-02<br>
+Wind speed: 1.6 mph<br>
+Enter option: 3<br>
+Enter date (YYYY-MM-DD): 2023-08-02<br>
+Pressure: 1031.934 hPa<br>
+Enter option: 0<br>
+<h2>Notes</h2><br>
 The weather data fetched from the provided API URL (https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22) is a sample data and might not always be up to date or accurate.
 For real-time weather data, consider using a valid API URL with a proper API key provided by the weather service provider.
 
